@@ -1,0 +1,10 @@
+{
+  "name": "wai-pwa",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve public"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
